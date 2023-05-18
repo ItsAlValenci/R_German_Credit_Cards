@@ -1,7 +1,7 @@
 # German Credit Cards Analysis 
 
 ## Project Description:
-This project covers essential concepts and techniques for data manipulation, exploration, and predictive modeling using R programming.
+This project covers key concepts and techniques for data manipulation, exploration, and predictive modeling using R programming.
 
 ## Learing outocmes
 
